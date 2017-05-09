@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/pitaj/multi-progress",
   "dependencies": {
-    "progress": "https://github.com/lbeschastny/node-progress.git"
+    "progress": "https://github.com/jeromewir/node-progress.git"
   }
 }
